@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweet-devotion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Sweet Devotion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-devotion/) |
+| **Get License** | [Obtain a Music License for Sweet Devotion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-devotion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the heat when you pull me close
+> Tangled in the sheets like a midnight rose
+> Every little touch leaves a lingering spark
+> You're the only flame that can light the dark
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
