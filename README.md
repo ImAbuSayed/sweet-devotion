@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweet-devotion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Sweet Devotion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-devotion/) |
+| **Get License** | [Get a Licensing Quote for Sweet Devotion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-devotion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a0fced09b375684a72f2dc464a5823fcc63e1f524af4d3d7b284935da4cb0b7c` |
 | **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
